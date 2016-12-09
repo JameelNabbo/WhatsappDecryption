@@ -26,3 +26,5 @@ $ cp /path/to/file/msgstore.db.crypt12 .
 Command execution:  
 
 java -cp "lib/whatsapp_spongycastle.jar:." WTDecrypt
+
+For more information visit: http://jameelnabbo.com/breaking-whatsapp-encryption-exploit/
