@@ -1,4 +1,4 @@
-# WhatsappDescryption
+# Whatsapp Messages Decryption 
 Tool to break down Whatsapp crypt12 encryption
 # Requirements:
 Linux Or Mac OSX or Windows runs java. 
